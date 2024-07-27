@@ -46,6 +46,7 @@ A histogram showing the distribution of purchase amounts to analyze spending pat
 ## Data Cleaning
 Data Cleaning Process
 The dataset was imported from a CSV file and loaded into Power Query for transformation. Initially, the relevant data table or range within the CSV file was navigated and selected. The first row of the dataset was promoted to be the column headers, ensuring proper labeling of data columns. The data types for each column were automatically detected and set to text accordingly. Irrelevant rows were removed based on specific conditions to clean the dataset. Values within the dataset were standardized or corrected through multiple instances of value replacement, ensuring consistency and accuracy. Finally, custom columns were added as needed for further calculations, and unnecessary columns were removed to streamline the dataset for analysis.The image below shows the data cleaning process
+![image](https://github.com/user-attachments/assets/2ff581c3-6cca-443f-9711-7b076b38e645)
 
 
 ## Analysis Steps
