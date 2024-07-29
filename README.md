@@ -66,7 +66,9 @@ This analysis will show how the age group of customer affect the purchasing patt
 
 - Analysis of the the average purchases amount by Gender.
 This analysis shows how customer gender influence the purcasing pattern in the shopping mall and the result shows that the female gender generate more sales to the male Gender, givi the shopping the need to tailor more strategic approach to improve its sales margin in the male category.
-![image](https://github.com/user-attachments/assets/cbd0d596-fc89-4e03-9495-6bb5678b32e1)
+![Visuals of Age by Count Of Order](https://github.com/user-attachments/assets/74c5aa02-691b-41fa-8f61-f7eaac6e6bec) | ![Visuals of Gender by Purchases](https://github.com/user-attachments/assets/3568a2e2-624c-44d3-b452-9eece814181e)
+
+
 - How the Purchases amount varies by Age Group
 This analysis shows various amount of purchases within different age groups and the result shows in the image below
 ![image](https://github.com/user-attachments/assets/365c13d8-5837-4d83-821b-48011034b952)
