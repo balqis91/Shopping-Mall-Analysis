@@ -72,7 +72,9 @@ This analysis shows how customer gender influence the purcasing pattern in the s
 
 - How the Purchases amount varies by Age Group
 This analysis shows various amount of purchases within different age groups and the result shows in the image below
-![image](https://github.com/user-attachments/assets/365c13d8-5837-4d83-821b-48011034b952)
+
+![Age by Sum of Purchases](https://github.com/user-attachments/assets/f01d9d74-2eb1-42a8-94a0-1438a508e176) | ![visuals of age group by Purchases](https://github.com/user-attachments/assets/307456d6-327c-42b9-ae98-e34483146c8e)
+
 
 - Analysis of Product with the highest caterogies of sales
 This analysis the product the the highest sales value and he result is shows that `clothing` has the highest sales value.
