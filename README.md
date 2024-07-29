@@ -56,9 +56,8 @@ The dataset was imported from a CSV file and loaded into Power Query for transfo
 
 
 
-The item purchased shows an average review rating of 3.75% which shows the total product sold b the shooping mal, meet an over an averae level ofcustomer satisfaction.
-- The analysis further look ino the top 10 products with the highest review ratings, and the resultshown below show the products with the highest review ratings:
-![image](https://github.com/user-attachments/assets/789996bd-20e7-45f7-a640-4d05a5b7bcc2)
+
+- The analysis look ino the top 10 products with the highest review ratings, and the result shown below show the products with the highest review ratings rrpresented by a bar chart to visualise the product with the highest review and the result shows that gloves have the highest number of review across several products in the shopping mall.
 
 - Frequency of Purchases withing the age group of customers
 This analysis will show how the age group of customer affect the purchasing pattern within the shopping mall. The age of customer is grouped into 5 categories and the result shows thus;
