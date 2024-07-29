@@ -52,7 +52,7 @@ The dataset was imported from a CSV file and loaded into Power Query for transfo
 ## Analysis Steps
 - Analysis of Review Rating by Item Purchased
 
-![Average Item analysis](https://github.com/user-attachments/assets/48e8711e-0e44-4a3e-8f95-0fddcee3d9e9) | ![Visuals of AVerage Item Purchased](https://github.com/user-attachments/assets/82224938-8cef-4d3b-801f-b39a862f37a9)
+![Average Item analysis](https://github.com/user-attachments/assets/48e8711e-0e44-4a3e-8f95-0fddcee3d9e9 | ![Visuals of AVerage Item Purchased](https://github.com/user-attachments/assets/82224938-8cef-4d3b-801f-b39a862f37a9)
 
 
 
