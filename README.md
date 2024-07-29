@@ -61,7 +61,9 @@ The dataset was imported from a CSV file and loaded into Power Query for transfo
 
 - Frequency of Purchases withing the age group of customers
 This analysis will show how the age group of customer affect the purchasing pattern within the shopping mall. The age of customer is grouped into 5 categories and the result shows thus;
-![image](https://github.com/user-attachments/assets/46d0b34d-4d51-44a0-a913-8e812610bc0d)
+![Age by Count of Order Id](https://github.com/user-attachments/assets/82597741-12e9-486b-9ca4-d50bb33b0edf) | ![Visuals of Age by Count Of Order](https://github.com/user-attachments/assets/b45e7f7e-e73e-48c4-9a34-1eb128735d62)
+
+
 - Analysis of the the average purchases amount by Gender.
 This analysis shows how customer gender influence the purcasing pattern in the shopping mall and the result shows that the female gender generate more sales to the male Gender, givi the shopping the need to tailor more strategic approach to improve its sales margin in the male category.
 ![image](https://github.com/user-attachments/assets/cbd0d596-fc89-4e03-9495-6bb5678b32e1)
