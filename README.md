@@ -52,7 +52,9 @@ The dataset was imported from a CSV file and loaded into Power Query for transfo
 ## Analysis Steps
 - Analysis of Review Rating by Item Purchased
 
-![image](https://github.com/user-attachments/assets/d2c3fa2b-b53b-45ab-8343-72cb417bfd15)
+![Average Item analysis](https://github.com/user-attachments/assets/48e8711e-0e44-4a3e-8f95-0fddcee3d9e9)| ![Visuals of AVerage Item Purchased](https://github.com/user-attachments/assets/82224938-8cef-4d3b-801f-b39a862f37a9)
+
+
 
 The item purchased shows an average review rating of 3.75% which shows the total product sold b the shooping mal, meet an over an averae level ofcustomer satisfaction.
 - The analysis further look ino the top 10 products with the highest review ratings, and the resultshown below show the products with the highest review ratings:
