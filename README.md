@@ -84,7 +84,9 @@ This analysis the product the the highest sales value and he result is shows tha
 
 - Analysis of the Purchases Frequency Distribution
 This analysis shows the different prices of items sold in the shopping mall and the count of each sales according to the price of items. The image shows the frequency distribution of the purchase prices and the number of item sold accordind to the price tags. 
-![image](https://github.com/user-attachments/assets/7a03adc0-819b-4709-ad53-c9b1df2eab3f)
+
+![Purchases Amount](https://github.com/user-attachments/assets/435ea084-394c-4a1d-a766-17cf70c497d6) | ![visuals](https://github.com/user-attachments/assets/02938de7-0380-4972-b750-e457dd8f18a1)
+
 
 ## Conclusion
 In summary, leveraging the cleaned and analyzed shopping data allows the mall to make data-driven decisions that enhance customer satisfaction, improve operational efficiency, and drive revenue growth. By continuously analyzing and interpreting this data, the mall can stay ahead of market trends and maintain a competitive edge in the retail industry.
