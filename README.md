@@ -78,7 +78,10 @@ This analysis shows various amount of purchases within different age groups and 
 
 - Analysis of Product with the highest caterogies of sales
 This analysis the product the the highest sales value and he result is shows that `clothing` has the highest sales value.
-![image](https://github.com/user-attachments/assets/59106929-b322-4b0a-8cb1-d80a6308b6b6)
+
+![Product Categories](https://github.com/user-attachments/assets/d92c6e16-4cc3-4c4e-9067-033471eedd2f) | ![Visuals of Categories](https://github.com/user-attachments/assets/abbe4aaa-8ead-4ba4-8e14-bb6482859931)
+
+
 - Analysis of the Purchases Frequency Distribution
 This analysis shows the different prices of items sold in the shopping mall and the count of each sales according to the price of items. The image shows the frequency distribution of the purchase prices and the number of item sold accordind to the price tags. 
 ![image](https://github.com/user-attachments/assets/7a03adc0-819b-4709-ad53-c9b1df2eab3f)
