@@ -84,7 +84,7 @@ This analysis the product the the highest sales value and he result is shows tha
 
 - Analysis of the Purchases Frequency Distribution
   
-This analysis shows the different prices of items sold in the shopping mall and the count of each sales according to the price of items. The image shows the frequency distribution of the purchase prices and the number of item sold accordind to the price tags. 
+This analysis shows the different prices of items sold in the shopping mall and the count of each sales according to the price of items. The image shows the frequency distribution of the purchase prices and the number of item sold according to the price. 
 
 ![Purchases Amount](https://github.com/user-attachments/assets/435ea084-394c-4a1d-a766-17cf70c497d6) | ![visuals](https://github.com/user-attachments/assets/02938de7-0380-4972-b750-e457dd8f18a1)
 
