@@ -1,6 +1,6 @@
-## Shopping-Mall-Analysis Using Microsoft Excel
+## Shopping Mall Analysis Using Microsoft Excel
 ## Overview
-This dataset contains detailed information on customer purchases from an online shopping platform. The data includes 19 attributes and 3910 observations with various attributes such as customer demographics, purchase details, and ratings. It is a comprehensive dataset that can provide insights into customer behavior, preferences, and overall shopping experience.
+This dataset used for this analysis contains detailed information on customer purchases from an online shopping platform. The analysis tends to understand customer shopping pattern in the shopping mall. it contains 19 attributes and 3910 observations with various attributes such as customer demographics, purchase details, and ratings. It is a comprehensive dataset that can provide insights into customer behavior, preferences, and overall shopping experience.
 
 ## Aim
 The aim of this analysis is to extract meaningful insights from the dataset by answering several questions generated in other to help understand customer behavior and preferences better. This will help in improving business strategies, customer satisfaction, and overall sales performance.
@@ -25,7 +25,7 @@ Identify the most popular item purchased in each category.
 - Distribution Analysis:
 Analyze the distribution of purchase sizes to understand spending patterns.
 ## Deliverables
-Based on the questions generated, the analysis will provide the following deliverables:
+Based on the objective above, the analysis will provide the following deliverables:
 
 - Review Ratings Analysis:
 
@@ -44,22 +44,23 @@ Identification of the most popular items in each category with corresponding vis
 - Purchase Size Distribution:
 A histogram showing the distribution of purchase amounts to analyze spending patterns.
 ## Data Cleaning
-Data Cleaning Process
-The dataset was imported from a CSV file and loaded into Power Query for transformation. Initially, the relevant data table or range within the CSV file was navigated and selected. The first row of the dataset was promoted to be the column headers, ensuring proper labeling of data columns. The data types for each column were automatically detected and set to text accordingly. Irrelevant rows were removed based on specific conditions to clean the dataset. Values within the dataset were standardized or corrected through multiple instances of value replacement, ensuring consistency and accuracy. Finally, custom columns were added as needed for further calculations, and unnecessary columns were removed to streamline the dataset for analysis.The image below shows the data cleaning process
+
+The dataset was imported from a CSV file and loaded into Power Query for transformation. Initially, the relevant data table or range within the CSV file was navigated and selected. The first row of the dataset was promoted to be the column headers, ensuring proper labeling of data columns. The data types for each column were automatically detected and set to their required data type such as text, decimal etc. Irrelevant rows were removed based on specific conditions to clean the dataset. Values within the dataset were standardized or corrected through multiple instances of value replacement, ensuring consistency and accuracy. Finally, custom columns were added as needed for further calculations, and unnecessary columns were removed to streamline the dataset for analysis.The image below depicts the data cleaning process as carried out in power query.
+
 ![image](https://github.com/user-attachments/assets/2ff581c3-6cca-443f-9711-7b076b38e645)
 
 
-## Analysis Steps
+## Analysis and Insights
 - Analysis of Review Rating by Item Purchased
+- - The analysis look ino the top 10 products with the highest review ratings, and the result shown below show the products with the highest review ratings rrpresented by a bar chart to visualise the product with the highest review and the result shows that gloves have the highest number of review across several products in the shopping mall.
+    
 
 ![Average Item analysis](https://github.com/user-attachments/assets/48e8711e-0e44-4a3e-8f95-0fddcee3d9e9) | ![Visuals of AVerage Item Purchased](https://github.com/user-attachments/assets/82224938-8cef-4d3b-801f-b39a862f37a9)
 
 
 
-
-- The analysis look ino the top 10 products with the highest review ratings, and the result shown below show the products with the highest review ratings rrpresented by a bar chart to visualise the product with the highest review and the result shows that gloves have the highest number of review across several products in the shopping mall.
-
 - Frequency of Purchases withing the age group of customers
+
 This analysis will show how the age group of customer affect the purchasing pattern within the shopping mall. The age of customer is grouped into 5 categories and the result shows thus;
 ![Age by Count of Order Id](https://github.com/user-attachments/assets/82597741-12e9-486b-9ca4-d50bb33b0edf) | ![Visuals of Age by Count Of Order](https://github.com/user-attachments/assets/b45e7f7e-e73e-48c4-9a34-1eb128735d62)
 
