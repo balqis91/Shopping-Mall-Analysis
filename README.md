@@ -1,6 +1,6 @@
 ## Shopping Mall Analysis Using Microsoft Excel
 ## Overview
-This dataset used for this analysis contains detailed information on customer purchases from an online shopping platform. The analysis tends to understand customer shopping pattern in the shopping mall. it contains 19 attributes and 3910 observations with various attributes such as customer demographics, purchase details, and ratings. It is a comprehensive dataset that can provide insights into customer behavior, preferences, and overall shopping experience.
+This analysis is designed to uncover key insights into customer behavior and preferences on an online shopping platform, with the ultimate goal of enhancing business strategies, customer satisfaction, and overall sales performance. By exploring various aspects of customer purchases, such as review ratings, purchase frequency, spending patterns, and product popularity, the analysis will provide actionable insights that can drive more targeted marketing efforts and improve the shopping experience.
 
 ## Aim
 The aim of this analysis is to extract meaningful insights from the dataset by answering several questions generated in other to help understand customer behavior and preferences better. This will help in improving business strategies, customer satisfaction, and overall sales performance.
@@ -24,6 +24,10 @@ Identify the most popular item purchased in each category.
 
 - Distribution Analysis:
 Analyze the distribution of purchase sizes to understand spending patterns.
+
+## Dataset
+The dataset used for this analysis is comprehensive, containing detailed information on 3,910 customer purchases from an online shopping platform. It includes 19 attributes related to customer demographics, purchase details, and review ratings. This rich dataset enables a thorough examination of customer behavior and supports the extraction of actionable insights that align with the analysis objectives.
+
 ## Deliverables
 Based on the objective above, the analysis will provide the following deliverables:
 
@@ -43,9 +47,33 @@ Identification of the most popular items in each category with corresponding vis
 
 - Purchase Size Distribution:
 A histogram showing the distribution of purchase amounts to analyze spending patterns.
-## Data Cleaning
+## Data Cleaning Process
 
-The dataset was imported from a CSV file and loaded into Power Query for transformation. Initially, the relevant data table or range within the CSV file was navigated and selected. The first row of the dataset was promoted to be the column headers, ensuring proper labeling of data columns. The data types for each column were automatically detected and set to their required data type such as text, decimal etc. Irrelevant rows were removed based on specific conditions to clean the dataset. Values within the dataset were standardized or corrected through multiple instances of value replacement, ensuring consistency and accuracy. Finally, custom columns were added as needed for further calculations, and unnecessary columns were removed to streamline the dataset for analysis.The image below depicts the data cleaning process as carried out in power query.
+
+The dataset was imported from a CSV file and processed in Power Query for transformation and cleaning:
+
+- Data Import:
+
+Imported the CSV file and selected the relevant data range.
+- Column Headers:
+
+Promoted the first row to column headers for proper labeling.
+- Data Type Assignment:
+
+Automatically detected and adjusted data types (e.g., text, decimal) for each column.
+- Row Filtering:
+
+Removed irrelevant rows based on specific conditions to clean the dataset.
+Value Standardization:
+
+Standardized and corrected inconsistent values through value replacement.
+- Custom Columns:
+
+Added custom columns for necessary calculations.
+- Column Removal:
+
+Removed unnecessary columns to streamline the dataset.
+The cleaned dataset was then finalized for analysis.
 
 ![image](https://github.com/user-attachments/assets/2ff581c3-6cca-443f-9711-7b076b38e645)
 
@@ -59,16 +87,17 @@ The dataset was imported from a CSV file and loaded into Power Query for transfo
 
 
 
-- Frequency of Purchases withing the age group of customers
+- Frequency of Purchases within the age group of customers
 
 This analysis will show how the age group of customer affect the purchasing pattern within the shopping mall. The age of customer is grouped into 5 categories and the result shows thus;
-![Age by Count of Order Id](https://github.com/user-attachments/assets/82597741-12e9-486b-9ca4-d50bb33b0edf) | ![Visuals of Age by Count Of Order](https://github.com/user-attachments/assets/b45e7f7e-e73e-48c4-9a34-1eb128735d62)
+
+![image](https://github.com/user-attachments/assets/5d695cd4-a062-411d-888f-dcf89c859b26) | ![Visuals of Age by Count Of Order](https://github.com/user-attachments/assets/b45e7f7e-e73e-48c4-9a34-1eb128735d62)
 
 
 - Analysis of the the average purchases amount by Gender.
 This analysis shows how customer gender influence the purcasing pattern in the shopping mall and the result shows that the female gender generate more sales to the male Gender, givi the shopping the need to tailor more strategic approach to improve its sales margin in the male category.
 
-![Gender by Average Purchases](https://github.com/user-attachments/assets/5fabd0f7-044d-4408-bbac-336bcd78b13d) | ![Visuals of Gender by Purchases](https://github.com/user-attachments/assets/3568a2e2-624c-44d3-b452-9eece814181e)
+![image](https://github.com/user-attachments/assets/fe0d13a4-7198-40dd-a97d-6d63436cc825) | ![Visuals of Gender by Purchases](https://github.com/user-attachments/assets/3568a2e2-624c-44d3-b452-9eece814181e)
 
 
 - How the Purchases amount varies by Age Group
